@@ -1,0 +1,67 @@
+statistics 
+now we will dicess about randam variables in statistics.
+
+There are two types of randam variables
+they are
+    discrete variables
+    continuous variables
+
+RANDOM variables
+
+first, we will dissese about the  variables
+ most of the programming languages if we we want to crete int value are float, string value we need to assine it to variable
+
+like x= 10
+x is variable and
+10 is we needt to store it on variable
+
+
+when we called randam variable in this also we have two types 
+they are 
+    discrete variables
+    continuous variables
+
+DISCRETE VARIABLES
+it contains the whole number only , not a floating value.
+for example :
+         the no.of accounts a person has ?
+         we tell like 2 or 3 not he have 2.5 accounts right 
+                            (or)
+         the no.of laptops the company has ?
+         we tell like 500 or 550 laptops not 550.2 laptops right
+
+CONTINUOUS VARIABLES
+it contains the whole number and also floating values also
+for example :
+            the height of the persons in this room
+            we tell like 5.1 or 5.5 or 6 right
+
+
+
+================================================================================================================================
+Gaussian distribution
+
+- or it also called also normal distribution
+
+formula
+
+ x= G.D(μ, σ)
+ where x is randam variable
+ μ is mean
+ σ is standed distribution
+
+
+
+ in the picture we will see the graph
+
+Empirical rule tells us that:
+
+*Pr(μ−σ≤X≤μ+σ)=0.6827
+68% of the data falls within one standard deviation of the mean.
+it means 68% of the data falls within in range of 1st standard deviation ot the left side to 1st standard deviation of the right side
+
+*Pr(μ−2σ≤X≤μ+2σ)=0.9545
+95% of the data falls within two standard deviations of the mean.
+
+*Pr(μ−3σ≤X≤μ+3σ)=0.9973.
+99.7% of the data falls within three standard deviations of the mean.
